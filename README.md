@@ -1,14 +1,14 @@
-## [`6oo`](index.html) [mural](https://webmural.com/6oo)
+## [`waitup`](index.html) [mural](https://webmural.com/waitup)
 
-### [color](6oo.css) [morf](https://webmural.com/deev)
+### [color](6oo.css) [morf](https://webmural.com/6oo)
 
 * `border-radius`
-* `coral` 
+* `coral` and beyond
 * `gradient`
 * `hue-rotate`
-* `transition: 600ms`
+* `transition`
 * `shadow`
 
 ### [you goo](goo.css)
 
-`flex` `nav` with [gooey shadow](https://webmural.com/6oo)
+`flex` `nav` with [gooey shadow](https://webmural.com/waitup)
